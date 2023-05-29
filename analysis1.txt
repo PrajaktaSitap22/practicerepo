@@ -1,0 +1,30 @@
+Packages required for developing ContactApplication
+----------------------------------------------------------------------------------------------
+1.in.contactapp.Binding 
+2.in.contactapp.Model
+3.in.contactapp.Controller
+4.in.contactapp.Service
+--------------------------------------------------------------------------------------------------
+1.in.contactapp.Binding
+private integer contactId;
+private String name;
+private String email;
+private integer phno;
+write the getter and getter methode and tostring method
+----------------------------------------------------------------------------------------------------
+2.in.contactapp.Model
+asign the varible to the match with UI feild
+
+---------------------------------------------------------------------------------------------------
+3.in.contactapp.contoller
+getMapping ()
+postMapping()
+putMapping()
+deleteMapping()
+----------------------------------------------------------------------------------------------------
+4.in.contact.Service
+We can write business Logic 
+insert(),Update(),delete(),viewrecords()
+public string insertcondata(){}
+public string update(){}
+public stirng delete(){}
